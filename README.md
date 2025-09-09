@@ -1,29 +1,26 @@
-# quickease_2.0-reports
-QUICKEASE 2.0 TEST REPORTS
+## CONSOLIDATED LATEST REPORTS (AS OF SEPTEMBER 3, 2025)
 
----
+_All contents in this section are the consolidated TLDRs from each test categories. This will be updated for every test iterations_
 
-CONSOLIDATED LATEST REPORTS (AS OF AUGUST 4, 2025)
+### WEB
 
-## ⚠️ Authentication & Authorization
+[**FORUMS**](./web/flashcards/Sept-09-2025.md)
 
-- ✅ Signup
-- ✅ Login
-- ✅ Logout
-- ✅ Email Verification
+- ✅ Users can attempt flashcards using clicks or keyboard shortcuts.
 
-## ⚠️ FORUMS
+[**FLASHCARDS**](./web/flashcards/Sept-09-2025.md)
 
-- ✅ Create Post
-- ✅ Attach Note from create post
-- ✅ Attach Quiz from create post
-- ✅ Attach Flashcards from create post
-- ✅ Delete Post
-- ✅ Edit Post
-- ✅ Comment to an existing post
-- ✅ Delete comment
-- ✅ Reply to a comment
-- ✅ Edit comment reply
-- ✅ Delete comment reply
+- ✅ Users can attempt flashcards using clicks or keyboard shortcuts.
 
----
+[**SUMMARY NOTES**](./web/notes/Sept-09-2025.md)
+
+- ✅ User can filter notes by type (manual or AI-generated) in the Summary Notes module.
+
+[**QUIZZES**](./web/quizzes/Sept-09-2025.md)
+
+- 💡Suggest adding border to highlight the current quiz item.
+
+[**PROFILE**](./web/profile/Sept-09-2025.md)
+
+- 🚧 Counters for notes and quizzes not yet implemented; suggest adding quiz counter for consistency.
+- 👤 Avatar not visible in profile posts.
