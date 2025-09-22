@@ -1,26 +1,24 @@
-## CONSOLIDATED LATEST REPORTS (AS OF SEPTEMBER 3, 2025)
+## CONSOLIDATED LATEST REPORTS (AS OF SEPTEMBER 22, 2025)
 
 _All contents in this section are the consolidated TLDRs from each test categories. This will be updated for every test iterations_
 
 ### WEB
 
-[**FORUMS**](./web/flashcards/Sept-09-2025.md)
+[**AUTH**](./web/auth/Sept-22-2025.md)
 
-- ✅ Users can attempt flashcards using clicks or keyboard shortcuts.
+- 💡Suggest implementing eye icon toggle for password visibility.
 
-[**FLASHCARDS**](./web/flashcards/Sept-09-2025.md)
+[**FORUMS**](./web/forums/Sept-22-2025.md)
 
-- ✅ Users can attempt flashcards using clicks or keyboard shortcuts.
-
-[**SUMMARY NOTES**](./web/notes/Sept-09-2025.md)
-
-- ✅ User can filter notes by type (manual or AI-generated) in the Summary Notes module.
+- ✅ 
 
 [**QUIZZES**](./web/quizzes/Sept-09-2025.md)
 
-- 💡Suggest adding border to highlight the current quiz item.
+- 💡Suggest adding border to highlight the current quiz item. Not yet implemented
 
-[**PROFILE**](./web/profile/Sept-09-2025.md)
+[**PROFILE**](./web/profile/Sept-22-2025.md)
 
-- 🚧 Counters for notes and quizzes not yet implemented; suggest adding quiz counter for consistency.
-- 👤 Avatar not visible in profile posts.
+- 💡 Counters for notes and flashcard are already implemented; suggest adding quiz counter for consistency.
+- 👤 Avatar are already visible in profile posts.
+- 🚧 Password icon toggle for password visibility are not yet implemented.
+- 💡 Suggest implementing a border around the current item for the user to identify what item they are answering.
